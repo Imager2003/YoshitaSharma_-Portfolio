@@ -321,7 +321,7 @@ button{ font-family: inherit; cursor:pointer; }
   display:grid;
   grid-template-rows: 0fr;
   transition: grid-template-rows .4s cubic-bezier(.22,1,.36,1);
-  margin-top: 10px;
+  margin-top: 1.75rem;
 }
 .role-details > .detail-cols{ overflow:hidden; }
 .role-details.open{ grid-template-rows: 1fr; margin-top: 1.75rem; }
